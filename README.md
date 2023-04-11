@@ -1,6 +1,5 @@
 Olá! Me chamo Gabriell. Algumas informações sobre mim:
 
-- 🌱 Estou terminando o curso de HTML5
 - 💬 Faço Ciência e Tecnologia na UFBA
 - 📫 Sei programar sites 
 - ⚡ Programo em Javascript e Python
